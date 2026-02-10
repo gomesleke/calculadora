@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gomesleke/calculadora/issues"
   },
-  "homepage": "https://github.com/gomesleke/calculadora#readme"
+  "homepage": "https://github.com/gomesleke/calculadora#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
